@@ -1,0 +1,8 @@
+1.The kernel hardwares of computer :
+    CPU, Memory, Hard disc, Graphic card
+      These hardwares transmit datas through level signals(电平信号), comprised of high(>2.4V)and low(<0.4V) level signals, which ensures 
+    the accuracy of transmission against circuit hardwares'defects.
+      And we use "1" to indicate high level, and "0" to indicate low level, that way we have "Binary Systems(二进制)".
+      
+    
+    
